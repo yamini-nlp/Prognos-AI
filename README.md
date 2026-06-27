@@ -2,7 +2,7 @@
 
 > An end-to-end clinical NLP system that analyses free-text hospital discharge summaries and predicts clinical outcomes using three model architectures: a TF-IDF baseline, a text-plus-vitals hybrid model, and a Groq LLaMA-3 70B large language model.
 
-**Live Demo:** https://prognos-ai-five.vercel.app &nbsp;|&nbsp; **GitHub:** github.com/yamireddy04/Prognos-AI
+**Live Demo:** https://prognos-ai-five.vercel.app &nbsp;|&nbsp; **GitHub:** github.com/yamini-nlp/Prognos-AI
 
 ![Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20Next.js%20%7C%20scikit--learn-blue?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-LLaMA%203.3%2070B%20%7C%20Groq-orange?style=flat-square)
@@ -175,7 +175,7 @@ All three pipelines return phrase-level explanations rendered in the UI:
 
 **1. Clone**
 ```bash
-git clone https://github.com/yamireddy04/Prognos-AI.git
+git clone https://github.com/yamini-nlp/Prognos-AI.git
 cd Prognos-AI
 ```
 
